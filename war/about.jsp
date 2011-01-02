@@ -29,7 +29,7 @@ Although we don't offer HTTPS, your data is secure in most other ways. All diagr
 The developers (that's just me for now) have access to this data via their Google accounts, but would only look at it if they received a bug report. 
 <br/><br/>
 <b>I love this thing! How can I help?</b><br/>
-For now, mostly by spreading the word! I'm considering open sourcing, at which point code would be welcome. I'm also experimenting with using Amazon Affiliates to defray the small hosting cost.
+For now, mostly by spreading the word! The code is also open source; you can find both <a href="https://github.com/kushal/diagram-server">the server</a> (which renders diagrams) and <a href="https://github.com/kushal/diagrammr">the App Engine app</a> (which acts as the frontend) on <a href="https://github.com/">GitHub</a>, so direct coding help works too. I'm also experimenting with using Amazon Affiliates to defray the small hosting cost.
 At the moment, I'm recommending <a href="http://www.amazon.com/gp/product/0061748366?ie=UTF8&tag=diagrammr-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0061748366">The Visual Miscellaneum</a>, on the assumption that
 Diagrammr users are probably enthusiastic about communicating visually.
 
